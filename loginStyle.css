@@ -21,8 +21,8 @@ h2 {
     text-align: center;
     color: #500073;
     font-family: 'Agatha', sans-serif;
-    font-size: 50PX;
-    margin-bottom: 10px;
+    margin-bottom: 1px;
+    font-size: 50px;
 }
 
 label {
